@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mebalci.github.io/Kisisel-Profil/sitemap.xml
