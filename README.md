@@ -1,2 +1,3 @@
 # Kisisel-Profil
-Kişisel Web Sayfası / CV
+Merhaba, ben Muhammed Emin Balcı.
+Bu kişisel web sitemde sizlere bir CV hazırladım.
