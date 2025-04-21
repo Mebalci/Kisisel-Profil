@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://mebalci.github.io/Kisisel-Profil/sitemap.xml
 
+Sitemap: https://mebalci.github.io/Kisisel-Profil/sitemap.xml
